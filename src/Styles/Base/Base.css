@@ -1,0 +1,9 @@
+:root{
+    --nav-color: #184ed5;
+    --main-color: #1d59d2;
+    --second-color: #1f4bc5;
+    --modal-color: rgb(22, 59, 191);
+    --pagination-color: #1251c7;
+    --shadow-input: 1px 1px 5px #000000a9;
+    --shadow-block: 2px 2px 5px #000000a9;
+}
